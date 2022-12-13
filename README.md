@@ -1,6 +1,5 @@
-<UL>
-<LI>Desafio de Projeto sobre Git/GitHub da DIO
-<LI>Repositório criado para o Desafio de Projeto
-</UL>
-## Links Úteis <br>
-[Sintaxe_Basica_Markdown](https://www.markdownguide.org/basic-syntax/)
+ Desafio de Projeto sobre Git/GitHub da DIO
+Repositório criado para o Desafio de Projeto.
+
+## Links Úteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
